@@ -1,3 +1,3 @@
-Green house temp [graph](https://shanegibney.github.io/greenhousetemp)
+Green house temp graph
 
-[<img width="967" alt="temp Graph" src="https://github.com/user-attachments/assets/5a7ec307-dd4d-41e0-abff-0f0007366fbb">](https://shanegibney.github.io/greenhousetemp)
+<img width="1183" alt="temperatureGraph" src="https://github.com/user-attachments/assets/a4f40797-0a32-47ad-863d-26725da678f3">
